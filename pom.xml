@@ -17,7 +17,7 @@
     <properties>
         <spring.version>4.3.14.RELEASE</spring.version>
         <aspectj.version>1.6.11</aspectj.version>
-        <jackson.version>2.7.4</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
     </properties>
     <dependencyManagement>
         <dependencies>
